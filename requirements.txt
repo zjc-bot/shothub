@@ -1,0 +1,5 @@
+# 迷你世界 MiniWorld 运行依赖（Python 3.9+）
+pygame-ce
+ #>=2.5.0          # 窗口 / 输入 / HUD 文本渲染
+moderngl
+#>=5.10.0       # OpenGL 3.3 Core 现代渲染（阴影贴图 / Blinn-Phong）
